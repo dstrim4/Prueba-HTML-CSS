@@ -1,0 +1,38 @@
+body
+{
+	background-color: rgb(0,0,255);
+}
+h1
+{
+	color: red;
+	font-size: 100px;
+}
+
+h2
+{
+	color:black;
+	font-size: 50px;
+}
+
+footer
+{
+	background-color: white;
+}
+
+.bob
+{
+	width: 100px;
+	border-radius: 50%;
+}
+
+.bobgif
+{
+	witdh:200px;
+	border-width: 50%;
+}
+
+#Porsche
+{
+	width: 200px;
+	height: 100px;
+}
